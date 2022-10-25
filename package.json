@@ -1,6 +1,7 @@
 {
   "name": "freeseeds",
   "version": "0.1.0",
+  "homepage": "freeseeds/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.7.0",
