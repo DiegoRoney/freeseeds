@@ -11,19 +11,7 @@
     color: var(---destaque-hover);
 }
 
-:root {
-  ---body-bg: #fcfcfc;
-  ---cor-texto: #ffffff;
-  ---cor-textobk: #252525;
-  ---body-color: #a6a6a6;
-
-  ---link-color: #88db00;
-  ---link-color-hover: #046425;
-
-  ---destaque: #046425;
-  ---destaque-hover: #88db00;
-
-  ---nav-bk: #b9bf0f;
-
-  ---bannerPrincipal: url("../img/banner5.jpg");
+.brand{
+    color: var(---link-color);
+    font-family: "Fredoka One", cursive;
 }

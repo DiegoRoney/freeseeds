@@ -8,7 +8,7 @@ function Barra() {
   return (
     <Navbar collapseOnSelect expand="lg" variant="dark" className="barra">
       <Container>
-        <Navbar.Brand href="#home">
+        <Navbar.Brand className="brand" href="#home">
           <Navbar.Brand href="#home">
             <img
               src="logo-freeseeds.png"
@@ -23,8 +23,8 @@ function Barra() {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link href="#features">item 1</Nav.Link>
-            <Nav.Link href="#pricing">item 2</Nav.Link>
+            <Nav.Link href="#">item 1</Nav.Link>
+            <Nav.Link href="#">item 2</Nav.Link>
             {/* <NavDropdown title="Dropdown" id="collasible-nav-dropdown">
               <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
               <NavDropdown.Item href="#action/3.2">

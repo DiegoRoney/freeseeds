@@ -80,6 +80,7 @@
   flex-direction: column;
   color: #ffff;
   padding: 15px;
+  border-radius: 10px;
 }
 
 .title {
@@ -100,7 +101,7 @@ input {
 
 input,
 textarea {
-  background-color: #5a5a5a;
+  background-color: #333333;
   margin-bottom: 5px;
   border-radius: 4px;
   border: 0;
