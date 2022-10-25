@@ -1,10 +1,29 @@
 
-.navbar{
-    width: 100%;
-    height: 100%;
-    color: red;
-    background-color: var(---link-color);
-    padding: 5px;
-    color: black;
-  }
-  
+
+ .barra {
+    background-color: var(---cor-textobk);
+    color: #ffffff;
+}
+.barral a{
+    color: var(---cor-texto);
+}
+.barra a:hover, a:active{
+    color: var(---destaque-hover);
+}
+
+:root {
+  ---body-bg: #fcfcfc;
+  ---cor-texto: #ffffff;
+  ---cor-textobk: #252525;
+  ---body-color: #a6a6a6;
+
+  ---link-color: #88db00;
+  ---link-color-hover: #046425;
+
+  ---destaque: #046425;
+  ---destaque-hover: #88db00;
+
+  ---nav-bk: #b9bf0f;
+
+  ---bannerPrincipal: url("../img/banner5.jpg");
+}

@@ -1,8 +1,9 @@
+
 /*?--------coponentes = HERO -----*/
 .hero {
   height: 90vh;
   width: 100%;
-  color: var(---cor-texto);
+  color: var(---cor-textobk);
   /* background-color: var(---body-color); */
 
   background: var(---bannerPrincipal);
@@ -114,7 +115,7 @@ textarea:focus {
 }
 
 .button {
-  color: var(---destaque);
+  color: var(---cor-textobk);
   height: 35px;
   border-radius: 4px;
   border: 0;

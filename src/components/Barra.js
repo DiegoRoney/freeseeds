@@ -2,10 +2,11 @@ import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 //import NavDropdown from 'react-bootstrap/NavDropdown';
+import "../style/navbar.css";
 
 function Barra() {
   return (
-    <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
+    <Navbar collapseOnSelect expand="lg" variant="dark" className="barra">
       <Container>
         <Navbar.Brand href="#home">
           <Navbar.Brand href="#home">
@@ -38,10 +39,10 @@ function Barra() {
           </Nav>
           <Nav>
             <Nav.Link href="#">
-              msg
+              Cadastre-se
               </Nav.Link>
             <Nav.Link eventKey={2} href="#">
-              port
+              Portfólio
             </Nav.Link>
           </Nav>
         </Navbar.Collapse>
