@@ -1,4 +1,5 @@
 import "../style/global.css";
+import "../style/hero.css";
 
 import { useState } from "react";
 import emailjs from "@emailjs/browser";
@@ -50,14 +51,14 @@ function Hero() {
   return (
     <div id="contato" className="hero">
       <div className="hero-conteudo">
-        <div className="hero-titulos">
+        <div className="hero-titulos text-center">
           <h1 className="title">Free Seeds</h1>
-          <h2>Compartilhe e receba mudas e sementes!</h2>
+          <h3>Compartilhe e receba mudas e sementes!</h3>
         </div>
 
         <div className="containerForm">
           <form className="form" onSubmit={sendEmail}>
-            <p>cadastre-se</p>
+            <p>Cadastre-se para receber notificações sobre nossos eventos!</p>
 
             <input
               className="input"
@@ -74,6 +75,12 @@ function Hero() {
               onChange={(e) => setEmail(e.target.value)}
               value={email}
             />
+            <div>
+                <p className="text-muted">
+                Nunca compartilharemos seu email, com ninguém. 
+                </p>           
+            </div>
+            
 
             {/* <textarea
               className="textarea"
