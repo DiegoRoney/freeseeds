@@ -1,6 +1,6 @@
 /*?--------coponentes = HERO -----*/
 .hero {
-  height: 94vh;
+  height: 90vh;
   width: 100%;
   color: var(---cor-texto);
   /* background-color: var(---body-color); */
@@ -27,6 +27,8 @@
   /* background-color: #f20544; */
   /* width: 1500px; */
   /* height: 10%; */
+
+  max-width: 500px;
   
   display: flex;
   justify-content: flex-start;
@@ -45,6 +47,10 @@
 .hero-titulos {
   padding-top: 50px;
   padding-bottom: 25px;
+}
+.hero-titulos img{
+  width: 100%;
+  margin-bottom: 15px;
 }
 .hero h1 {
   color: var(---link-color);
@@ -84,7 +90,7 @@
   width: 100%;
   display: flex;
   flex-direction: column;
-  gap: 5px;
+  gap: 15px;
 }
 
 input {

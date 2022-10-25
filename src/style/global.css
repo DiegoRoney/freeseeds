@@ -4,9 +4,11 @@
     text-decoration: none;
 
 }
-
+body{
+    background-color:gray;
+}
 :root {
-    ---body-bg: #949494;
+    ---body-bg: #fcfcfc;
     ---cor-texto: #ffffff;
     ---cor-textobk: #252525;
     ---body-color: #a6a6a6;

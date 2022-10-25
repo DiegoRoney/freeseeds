@@ -6,6 +6,10 @@ import emailjs from "@emailjs/browser";
 
 import * as ReactDOM from "react-dom";
 
+
+
+import logobg from "../img/logo-g.png";
+
 function Hero() {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
@@ -52,7 +56,11 @@ function Hero() {
     <div id="contato" className="hero">
       <div className="hero-conteudo">
         <div className="hero-titulos text-center">
-          <h1 className="title">Free Seeds</h1>
+
+          {/* <h1 className="title">Free Seeds</h1> */}
+
+          <img src={logobg} alt="logo"/>
+
           <h3>Compartilhe e receba mudas e sementes!</h3>
         </div>
 
