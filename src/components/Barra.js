@@ -1,16 +1,14 @@
-import Container from 'react-bootstrap/Container';
-import Nav from 'react-bootstrap/Nav';
-import Navbar from 'react-bootstrap/Navbar';
+import Container from "react-bootstrap/Container";
+import Nav from "react-bootstrap/Nav";
+import Navbar from "react-bootstrap/Navbar";
 //import NavDropdown from 'react-bootstrap/NavDropdown';
 
 function Barra() {
   return (
     <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
       <Container>
-      
-     
         <Navbar.Brand href="#home">
-        <Navbar.Brand href="#home">
+          <Navbar.Brand href="#home">
             <img
               src="logo-freeseeds.png"
               width="30"
@@ -19,7 +17,8 @@ function Barra() {
               alt="logo"
             />
           </Navbar.Brand>
-          Free Seeds</Navbar.Brand>
+          Free Seeds
+        </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto">
@@ -38,8 +37,10 @@ function Barra() {
             </NavDropdown> */}
           </Nav>
           <Nav>
-            <Nav.Link href="#deets">msg</Nav.Link>
-            <Nav.Link eventKey={2} href="#memes">
+            <Nav.Link href="#">
+              msg
+              </Nav.Link>
+            <Nav.Link eventKey={2} href="#">
               port
             </Nav.Link>
           </Nav>
