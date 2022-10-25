@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/freeseeds/static/css/main.7eb0ec8c.css",
+    "main.js": "/freeseeds/static/js/main.03f251de.js",
+    "static/js/787.29865480.chunk.js": "/freeseeds/static/js/787.29865480.chunk.js",
+    "static/media/banner5.jpg": "/freeseeds/static/media/banner5.bf0c562a49274af0ab03.jpg",
+    "index.html": "/freeseeds/index.html",
+    "main.7eb0ec8c.css.map": "/freeseeds/static/css/main.7eb0ec8c.css.map",
+    "main.03f251de.js.map": "/freeseeds/static/js/main.03f251de.js.map",
+    "787.29865480.chunk.js.map": "/freeseeds/static/js/787.29865480.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7eb0ec8c.css",
+    "static/js/main.03f251de.js"
+  ]
+}
