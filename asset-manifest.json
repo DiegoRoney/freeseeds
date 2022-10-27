@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/freeseeds/static/css/main.70af1ead.css",
-    "main.js": "/freeseeds/static/js/main.d0649dfb.js",
+    "main.js": "/freeseeds/static/js/main.2ffbf75a.js",
     "static/js/787.29865480.chunk.js": "/freeseeds/static/js/787.29865480.chunk.js",
     "static/media/bannerT.png": "/freeseeds/static/media/bannerT.a8e855fda8e813c7bd15.png",
     "static/media/banner3.jpg": "/freeseeds/static/media/banner3.56c4a18e60c344ec6551.jpg",
@@ -13,11 +13,11 @@
     "static/media/planta.png": "/freeseeds/static/media/planta.b67cec605039dbf9b389.png",
     "index.html": "/freeseeds/index.html",
     "main.70af1ead.css.map": "/freeseeds/static/css/main.70af1ead.css.map",
-    "main.d0649dfb.js.map": "/freeseeds/static/js/main.d0649dfb.js.map",
+    "main.2ffbf75a.js.map": "/freeseeds/static/js/main.2ffbf75a.js.map",
     "787.29865480.chunk.js.map": "/freeseeds/static/js/787.29865480.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70af1ead.css",
-    "static/js/main.d0649dfb.js"
+    "static/js/main.2ffbf75a.js"
   ]
 }
