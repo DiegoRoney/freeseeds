@@ -6,7 +6,7 @@ import "../style/navbar.css";
 
 function Barra() {
   return (
-    <Navbar collapseOnSelect expand="lg" variant="dark" className="barra">
+    <Navbar fixed="top" collapseOnSelect expand="lg" variant="dark" className="barra">
       <Container>
         <Navbar.Brand className="brand" href="#home">
           <Navbar.Brand href="#home">
@@ -38,7 +38,7 @@ function Barra() {
             </NavDropdown> */}
           </Nav>
           <Nav>
-            <Nav.Link href="#">
+            <Nav.Link href="#contato">
               Cadastre-se
               </Nav.Link>
             <Nav.Link eventKey={2} href="#">
