@@ -37,14 +37,14 @@
 }
 
 .eventos-titulo {
-  width: 400px;
+  width: 350px;
   /* border: 1px solid rgb(0, 60, 255); */
   background: var(---placa);
   /* background-repeat: no-repeat; */
   background-size: cover;
   background-position: center;
   padding: 60px;
-  margin: 50px;
+  margin-top: 50px;
 }
 
 .eventos-conteudo-imagem {
