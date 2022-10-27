@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/freeseeds/static/css/main.a3340744.css",
-    "main.js": "/freeseeds/static/js/main.bb8080df.js",
+    "main.css": "/freeseeds/static/css/main.5c64ff43.css",
+    "main.js": "/freeseeds/static/js/main.b8107718.js",
     "static/js/787.29865480.chunk.js": "/freeseeds/static/js/787.29865480.chunk.js",
     "static/media/banner6.jpg": "/freeseeds/static/media/banner6.cd9fd78b3e8df4ba2ea1.jpg",
     "static/media/mapa.jpg": "/freeseeds/static/media/mapa.7f6a4eabfec75b2bcb4f.jpg",
     "static/media/placa2.png": "/freeseeds/static/media/placa2.565be0ecc24b581e31ed.png",
+    "static/media/bg1.jpg": "/freeseeds/static/media/bg1.568d4197b807fc555461.jpg",
     "static/media/familia-plantando-juntos.jpg": "/freeseeds/static/media/familia-plantando-juntos.1e3a725ed5982931a18b.jpg",
     "static/media/logo-g.png": "/freeseeds/static/media/logo-g.9e049cd00facd879bad5.png",
     "static/media/planta.png": "/freeseeds/static/media/planta.b67cec605039dbf9b389.png",
     "index.html": "/freeseeds/index.html",
-    "main.a3340744.css.map": "/freeseeds/static/css/main.a3340744.css.map",
-    "main.bb8080df.js.map": "/freeseeds/static/js/main.bb8080df.js.map",
+    "main.5c64ff43.css.map": "/freeseeds/static/css/main.5c64ff43.css.map",
+    "main.b8107718.js.map": "/freeseeds/static/js/main.b8107718.js.map",
     "787.29865480.chunk.js.map": "/freeseeds/static/js/787.29865480.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3340744.css",
-    "static/js/main.bb8080df.js"
+    "static/css/main.5c64ff43.css",
+    "static/js/main.b8107718.js"
   ]
 }
