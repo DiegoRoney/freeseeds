@@ -6,7 +6,7 @@ import planta from "../img/planta.png";
 function About() {
   return (
     <div id="about" className="about">
-      <div className="about-titulo">
+      <div className="about-titulo text-center">
         <h1> Quem somos</h1>
       </div>
       <div className="about-conteudo">

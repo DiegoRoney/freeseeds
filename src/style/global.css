@@ -22,6 +22,7 @@ body {
   ---nav-bk: #b9bf0f;
 
   ---bannerPrincipal: url("../img/banner6.jpg");
+  ---bannerSecundario: url("../img/bg1.jpg");
   ---placa: url("../img/placa2.png");
   ---fontprincipal: font-family: "Fredoka One", 
   cursive;

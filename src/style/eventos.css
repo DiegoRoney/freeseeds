@@ -1,7 +1,10 @@
 .eventos {
   /* border: 1px solid red; */
 
-  background-color: var(---destaque);
+  background: var(---bannerSecundario);
+  background-repeat: no-repeat;
+  background-size: center;
+
   color: var(---body-bg);
 
   width: 100%;
@@ -12,13 +15,14 @@
   justify-content: center;
   align-items: center;
   align-content: center;
+
+  padding-bottom: 100px;
 }
 
 .eventos h1,
 .eventos h2,
 .eventos h3 {
   font-family: "Fredoka One", cursive;
-  color: var(---body-bg);
 }
 
 .eventos-conteudo {
@@ -33,17 +37,18 @@
 }
 
 .eventos-titulo {
+  width: 400px;
   /* border: 1px solid rgb(0, 60, 255); */
-
-  color: #030303;
+  background: var(---placa);
+  /* background-repeat: no-repeat; */
+  background-size: cover;
+  background-position: center;
   padding: 60px;
+  margin: 50px;
 }
 
 .eventos-conteudo-imagem {
- /* border: 1px solid rgb(0, 78, 35); */
  
-
-  color: #046425;
   width: 650px;
   height: 100%;
 }
@@ -56,18 +61,18 @@
 .eventos-conteudo-texto {
   /* border: 1px solid rgb(225, 0, 255); */
 
-  color: var(---cor-texto);
+  color: var(---cor-textobk);
 
   width: 350px;
   height: 100%;
 }
 
-.content2{
+.content2 {
   background: var(---placa);
-   /* background-repeat: no-repeat; */
+  /* background-repeat: no-repeat; */
   background-size: cover;
   background-position: center;
-  
+
   color: var(---body-bg);
   font-weight: bold;
   width: 100%;
@@ -78,13 +83,11 @@
 }
 .item1 {
   width: 30%;
-  
 }
-.item1 img{
+.item1 img {
   width: 100%;
- 
 }
-.item2{
+.item2 {
   padding: 2px;
   width: 70%;
 }

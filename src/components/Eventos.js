@@ -5,9 +5,9 @@ import mapa from "../img/mapa.jpg";
 
 function Eventos() {
   return (
-    <div id="eventos" className="eventos">
+    <div id="eventos" className="eventos text-center">
       <div className="eventos-titulo">
-        <h1> Eventos</h1>
+        <h1> Eventos </h1>
       </div>
       <div className="eventos-conteudo">
         

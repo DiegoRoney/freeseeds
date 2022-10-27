@@ -12,13 +12,14 @@
   justify-content: center;
   align-items: center;
   align-content: center;
+
+  padding-bottom: 100px;
 }
 
-h1,
-h2,
-h3 {
+.about h1,
+.about h2,
+.about h3 {
   font-family: "Fredoka One", cursive;
-  color: var(---destaque);
 }
 
 .about-conteudo {
@@ -33,17 +34,19 @@ h3 {
 }
 
 .about-titulo {
+  width: 400px;
   /* border: 1px solid rgb(0, 60, 255); */
-
-  color: #030303;
+  background: var(---placa);
+  /* background-repeat: no-repeat; */
+  background-size: cover;
+  background-position: center;
   padding: 60px;
+  margin: 50px;
 }
 
 .about-conteudo-imagem {
- /* border: 1px solid rgb(0, 78, 35); */
- 
+  /* border: 1px solid rgb(0, 78, 35); */
 
-  color: #046425;
   width: 650px;
   height: 100%;
 }
@@ -62,12 +65,12 @@ h3 {
   height: 100%;
 }
 
-.content2{
+.content2 {
   background: var(---placa);
-   /* background-repeat: no-repeat; */
+  /* background-repeat: no-repeat; */
   background-size: cover;
   background-position: center;
-  
+
   color: var(---body-bg);
   font-weight: bold;
   width: 100%;
@@ -78,13 +81,11 @@ h3 {
 }
 .item1 {
   width: 30%;
-  
 }
-.item1 img{
+.item1 img {
   width: 100%;
- 
 }
-.item2{
+.item2 {
   padding: 2px;
   width: 70%;
 }
