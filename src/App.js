@@ -5,6 +5,9 @@ import Hero from './components/hero';
 import Barra from './components/Barra';
 import About from './components/About';
 import Eventos from './components/Eventos';
+import Big from './components/Big';
+import Footer from './components/Footer';
+
 function App() {
   return (
     <div className="App">   
@@ -12,8 +15,10 @@ function App() {
       <Barra />
       <Hero/>
       <About />
-
       <Eventos />
+
+      <Big />
+      <Footer />
     </div>
   );
 }
