@@ -12,7 +12,7 @@ function Eventos() {
       <div className="eventos-conteudo">
         
         <div className="eventos-conteudo-texto">
-          <h3 className="text-center">Aconteceendo agora</h3>
+          <h3 className="text-center">Acontecendo agora</h3>
 
           <p>
            item item item

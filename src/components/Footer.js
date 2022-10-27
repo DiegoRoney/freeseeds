@@ -6,7 +6,7 @@ import "../style/big.css";
 function Footer(){
     return(
         <div className="big">
-           footer
+           footer // fazendo
         </div>
     )
 }
