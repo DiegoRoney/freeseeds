@@ -1,7 +1,7 @@
-.about {
+.eventos {
   /* border: 1px solid red; */
 
-  background-color: var(---body-bg);
+  background-color: var(---destaque);
   color: var(---body-bg);
 
   width: 100%;
@@ -14,14 +14,14 @@
   align-content: center;
 }
 
-h1,
-h2,
-h3 {
+.eventos h1,
+.eventos h2,
+.eventos h3 {
   font-family: "Fredoka One", cursive;
-  color: var(---destaque);
+  color: var(---body-bg);
 }
 
-.about-conteudo {
+.eventos-conteudo {
   /* border: 1px solid rgb(255, 251, 0); */
 
   width: 90%;
@@ -32,14 +32,14 @@ h3 {
   flex-wrap: wrap;
 }
 
-.about-titulo {
+.eventos-titulo {
   /* border: 1px solid rgb(0, 60, 255); */
 
   color: #030303;
   padding: 60px;
 }
 
-.about-conteudo-imagem {
+.eventos-conteudo-imagem {
  /* border: 1px solid rgb(0, 78, 35); */
  
 
@@ -48,15 +48,15 @@ h3 {
   height: 100%;
 }
 
-.about-conteudo-imagem img {
+.eventos-conteudo-imagem img {
   border-radius: 10px;
   width: 100%;
 }
 
-.about-conteudo-texto {
+.eventos-conteudo-texto {
   /* border: 1px solid rgb(225, 0, 255); */
 
-  color: var(---cor-textobk);
+  color: var(---cor-texto);
 
   width: 350px;
   height: 100%;

@@ -22,10 +22,15 @@ body {
   ---nav-bk: #b9bf0f;
 
   ---bannerPrincipal: url("../img/banner6.jpg");
-  ---fontprincipal: font-family: "Fredoka One", cursive;
+  ---placa: url("../img/placa2.png");
+  ---fontprincipal: font-family: "Fredoka One", 
+  cursive;
 }
 
-
+span{
+  font-weight: bold;
+  color: var(---destaque);
+}
 
 :root {
     --blue: #007bff;
