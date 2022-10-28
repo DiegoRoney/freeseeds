@@ -41,7 +41,7 @@ function Barra() {
             <Nav.Link href="#contato">
               Cadastre-se
               </Nav.Link>
-            <Nav.Link eventKey={2} href="#">
+            <Nav.Link eventKey={2} href="https://diegoroney.github.io/portfolio/">
               Portfólio
             </Nav.Link>
           </Nav>
