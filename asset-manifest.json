@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/freeseeds/static/css/main.27d5289a.css",
+    "main.css": "/freeseeds/static/css/main.a1b3f0c2.css",
     "main.js": "/freeseeds/static/js/main.6e8e2e1c.js",
     "static/js/787.29865480.chunk.js": "/freeseeds/static/js/787.29865480.chunk.js",
     "static/media/bannerT.png": "/freeseeds/static/media/bannerT.a8e855fda8e813c7bd15.png",
@@ -12,12 +12,12 @@
     "static/media/logo-g.png": "/freeseeds/static/media/logo-g.9e049cd00facd879bad5.png",
     "static/media/planta.png": "/freeseeds/static/media/planta.b67cec605039dbf9b389.png",
     "index.html": "/freeseeds/index.html",
-    "main.27d5289a.css.map": "/freeseeds/static/css/main.27d5289a.css.map",
+    "main.a1b3f0c2.css.map": "/freeseeds/static/css/main.a1b3f0c2.css.map",
     "main.6e8e2e1c.js.map": "/freeseeds/static/js/main.6e8e2e1c.js.map",
     "787.29865480.chunk.js.map": "/freeseeds/static/js/787.29865480.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.27d5289a.css",
+    "static/css/main.a1b3f0c2.css",
     "static/js/main.6e8e2e1c.js"
   ]
 }
