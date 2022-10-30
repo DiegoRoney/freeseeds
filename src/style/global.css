@@ -26,6 +26,13 @@ body {
   ---placa: url("../img/placa2.png");
   ---fontprincipal: font-family: "Fredoka One", 
   cursive;
+
+  /* CSS HEX */
+--smoky-black: #0d0a0bff;
+--charcoal: #454955ff;
+--magnolia: #f3eff5ff;
+--green-ryb: #72b01dff;
+--sap-green: #3f7d20ff;
 }
 
 span{
