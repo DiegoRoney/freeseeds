@@ -1,7 +1,7 @@
 .about {
   /* border: 1px solid red; */
 
-  background-color: var(---body-bg);
+  background-color: var(--magnolia);
   color: var(---body-bg);
 
   width: 100%;
@@ -60,7 +60,7 @@
 .about-conteudo-texto {
   /* border: 1px solid rgb(225, 0, 255); */
 
-  color: var(---cor-textobk);
+  color: var(--smoky-black);
 
   width: 350px;
   height: 100%;

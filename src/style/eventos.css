@@ -1,9 +1,9 @@
 .eventos {
   /* border: 1px solid red; */
 
-  background: var(---bannerSecundario);
-  background-repeat: no-repeat;
-  background-size: center;
+  background-color: var(--sap-green);
+  /* background-repeat: no-repeat;
+  background-size: center; */
 
   color: var(---body-bg);
 
@@ -61,8 +61,8 @@
 
 .eventos-conteudo-texto {
   border-radius: 10px;
-  background-color: var(---body-bg);
-  color: var(---cor-textobk);
+  background-color: var(--charcoal);
+  color: var(--green-ryb);
   padding: 15px;
   width: 350px;
   height: 100%;
