@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/freeseeds/static/css/main.a1b3f0c2.css",
-    "main.js": "/freeseeds/static/js/main.6e8e2e1c.js",
+    "main.css": "/freeseeds/static/css/main.6b4a1b23.css",
+    "main.js": "/freeseeds/static/js/main.9f114e04.js",
     "static/js/787.29865480.chunk.js": "/freeseeds/static/js/787.29865480.chunk.js",
-    "static/media/bannerT.png": "/freeseeds/static/media/bannerT.a8e855fda8e813c7bd15.png",
+    "static/media/bannerT.png": "/freeseeds/static/media/bannerT.be1db6d807652a8cd242.png",
     "static/media/banner3.jpg": "/freeseeds/static/media/banner3.56c4a18e60c344ec6551.jpg",
     "static/media/banner6.jpg": "/freeseeds/static/media/banner6.cd9fd78b3e8df4ba2ea1.jpg",
     "static/media/mapa.jpg": "/freeseeds/static/media/mapa.7f6a4eabfec75b2bcb4f.jpg",
@@ -12,12 +12,12 @@
     "static/media/logo-g.png": "/freeseeds/static/media/logo-g.9e049cd00facd879bad5.png",
     "static/media/planta.png": "/freeseeds/static/media/planta.b67cec605039dbf9b389.png",
     "index.html": "/freeseeds/index.html",
-    "main.a1b3f0c2.css.map": "/freeseeds/static/css/main.a1b3f0c2.css.map",
-    "main.6e8e2e1c.js.map": "/freeseeds/static/js/main.6e8e2e1c.js.map",
+    "main.6b4a1b23.css.map": "/freeseeds/static/css/main.6b4a1b23.css.map",
+    "main.9f114e04.js.map": "/freeseeds/static/js/main.9f114e04.js.map",
     "787.29865480.chunk.js.map": "/freeseeds/static/js/787.29865480.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1b3f0c2.css",
-    "static/js/main.6e8e2e1c.js"
+    "static/css/main.6b4a1b23.css",
+    "static/js/main.9f114e04.js"
   ]
 }
