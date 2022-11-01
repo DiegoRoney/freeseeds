@@ -1,9 +1,11 @@
 .eventos {
   /* border: 1px solid red; */
 
-  background-color: var(--sap-green);
-  /* background-repeat: no-repeat;
+  /* background: var(---bannerSecundario);
+  background-repeat: no-repeat;
   background-size: center; */
+
+  background-color:var(--sap-green);
 
   color: var(---body-bg);
 
