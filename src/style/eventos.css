@@ -20,6 +20,20 @@
 
   padding-bottom: 100px;
 }
+.eventos ul{
+  padding: 20px;
+  justify-content: flex-start;
+  display: flex;
+  justify-items: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.done{
+  text-decoration: line-through;
+  color: var(--charcoal);
+}
+
 
 .eventos h1,
 .eventos h2,
@@ -63,11 +77,14 @@
 
 .eventos-conteudo-texto {
   border-radius: 10px;
-  background-color: var(--charcoal);
+  background-color: var(--smoky-black);
   color: var(--green-ryb);
   padding: 15px;
   width: 350px;
   height: 100%;
+}
+.eventos-conteudo-texto h3{
+  color: var(--magnolia);
 }
 
 .content2 {

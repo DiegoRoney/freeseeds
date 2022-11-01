@@ -75,7 +75,7 @@
   } */
 
 .containerForm {
-  background-color: #262626;
+  background-color:var(--smoky-black);
   min-height: fit-content;
   width: 100%;
   display: flex;
@@ -125,20 +125,20 @@ textarea:focus {
   border-radius: 4px;
   border: 0;
   cursor: pointer;
-  background: var(---link-color);
+  background: var(--green-ryb);
   font-size: 18px;
   transition: background-color, transform 0.8s;
 }
 
 .button:hover {
-  background: var(---link-color-hover);
+  background: var(--sap-green);
   transform: scale(1.01);
   color: var(---cor-texto);
 }
 
 .msg-send h3 {
   margin-top: 30px;
-  color: var(---link-color-hover);
+  color: var(--green-ryb);
 }
 
 /*?--------coponentes = HERO -----*/
