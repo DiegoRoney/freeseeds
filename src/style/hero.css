@@ -90,7 +90,10 @@
 .title {
   margin-bottom: 5px;
 }
-
+.info p{
+  color: var(--charcoal);
+  font-size: small;
+}
 .form {
   /* max-width: 400px; */
   width: 100%;
@@ -105,12 +108,14 @@ input {
 
 input,
 textarea {
-  background-color: #333333;
+  font-size: small;
+  background-color: #1d1d1d;
   margin-bottom: 5px;
   border-radius: 4px;
   border: 0;
   padding: 0 8px;
-  color: #ffff;
+  color: var(--magnolia);
+  
 }
 
 input:focus,

@@ -81,11 +81,11 @@ function Hero() {
               type="email"
               placeholder="Digite seu email"
               onChange={(e) => setEmail(e.target.value)}
-              value={email}
+              value={email}              
             />
-            <div>
-                <p className="text-muted">
-                Nunca compartilharemos seu email, com ninguém. 
+            <div className="info">
+                <p>
+                * Nunca compartilharemos seu email, com ninguém. 
                 </p>           
             </div>
             

@@ -1,7 +1,7 @@
 
 import './App.css';
 import './style/navbar.css'
-import Hero from './components/hero';
+import Hero from './components/Hero';
 import Barra from './components/Barra';
 import About from './components/About';
 import Eventos from './components/Eventos';
