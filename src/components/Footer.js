@@ -12,7 +12,7 @@ function Footer() {
         alt="logo"
       />
 
-      <a href="https://diegoroney.github.io/portfolio/">@2022 DiegoR</a>
+      <a href="https://diegoroney.github.io/portfolio/">@2023 DiegoR</a>
     </div>
   );
 }
