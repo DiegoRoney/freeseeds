@@ -1,6 +1,6 @@
 import "../style/global.css";
 import "../style/about.css";
-import about from "../img/familia-plantando-juntos.jpg";
+import about from "../img/familia-plantando-juntos.png";
 import planta from "../img/planta.png";
 
 function About() {
