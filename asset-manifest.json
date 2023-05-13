@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/freeseeds/static/css/main.98b97020.css",
-    "main.js": "/freeseeds/static/js/main.c26af819.js",
+    "main.js": "/freeseeds/static/js/main.774b1f89.js",
     "static/js/787.29865480.chunk.js": "/freeseeds/static/js/787.29865480.chunk.js",
     "static/media/mapa.png": "/freeseeds/static/media/mapa.81d50f27daa86668b08a.png",
     "static/media/bannerT.png": "/freeseeds/static/media/bannerT.e8a69899bc3618d57b76.png",
@@ -13,11 +13,11 @@
     "static/media/logo-g.png": "/freeseeds/static/media/logo-g.62bf44b1e202543a0546.png",
     "index.html": "/freeseeds/index.html",
     "main.98b97020.css.map": "/freeseeds/static/css/main.98b97020.css.map",
-    "main.c26af819.js.map": "/freeseeds/static/js/main.c26af819.js.map",
+    "main.774b1f89.js.map": "/freeseeds/static/js/main.774b1f89.js.map",
     "787.29865480.chunk.js.map": "/freeseeds/static/js/787.29865480.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.98b97020.css",
-    "static/js/main.c26af819.js"
+    "static/js/main.774b1f89.js"
   ]
 }
